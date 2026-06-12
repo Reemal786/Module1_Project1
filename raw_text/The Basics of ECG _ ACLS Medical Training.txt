@@ -1,0 +1,109 @@
+The Basics of ECG
+The information contained within a single 12-lead
+electrocardiogram can be extensive. Learning how to interpret
+the subtle di�erences in characteristic changes that can arise is
+a specialized skill that can take years to learn. Fortunately, basic
+ECG interpretation can be rather straightforward, as long as you
+know the basics.
+An electrocardiogram is a tracing of the electrical activity that is
+taking place within the heart. Under normal circumstances, an
+electrical impulse will travel from the sinoatrial node, spread
+across the atrium, to the atrioventricular node and through the
+ventricular septum of the heart. This electrical impulse causes
+the four chambers of the heart to contract and relax in a
+coordinated fashion. Studying these electrical impulses allows
+us to understand how the heart is functioning.
+The P wave represents the depolarization of the left and right
+atrium and also corresponds to atrial contraction. Strictly
+speaking, the atria contract a split second after the P wave
+begins. Because it is so small, atrial repolarization is usually not
+visible on ECG. In most cases, the P wave will be smooth and
+rounded, no more than 2.5 mm tall, and no more than 0.11
+seconds in duration. It will be positive in leads I, II, aVF and V1
+through V6.
+As the name suggests, the QRS complex includes the Q wave, R
+wave, and S wave. These three waves occur in rapid succession.
+The QRS complex represents the electrical impulse as it spreads
+through the ventricles and indicates ventricular depolarization.
+As with the P wave, the QRS complex starts just before
+ventricular contraction.
+It is important to recognize that not every QRS complex will
+contain Q, R, and S waves. The convention is that the Q wave is
+always negative and that the R wave is the �rst positive wave of
+the complex. If the QRS complex only includes an upward
+(positive) de�ection, then it is an R wave. The S wave is the �rst
+0
+The Basics of ECG | ACLS Medical Training https://www.aclsmedicaltraining.com/basics-of-ecg
+1 of 4 6/11/2026, 9:50 PM
+negative de�ection after an R wave.
+Under normal circumstances, the duration of the QRS complex
+in an adult patient will be between 0.06 and 0.10 seconds. The
+QRS complex is usually positive in leads I, aVL, V5, V6 and II, III,
+and aVF. The QRS complex is usually negative in leads aVR, V1,
+and V2.
+The J-point is the point where the QRS complex and the ST
+segment meet. It can also be thought of as the start of the ST
+segment. The J-point (also known as Junction) is important
+because it can be used to diagnose an ST segment elevation
+myocardial infarction. When the J-point is elevated at least 2 mm
+above baseline, it is consistent with a STEMI.
+A T wave follows the QRS complex and indicates ventricular
+repolarization. Unlike a P wave, a normal T wave is slightly
+asymmetric; the peak of the wave is a little closer to its end than
+to its beginning. T waves are normally positive in leads I, II, and
+V2 through V6 and negative in aVR. A T wave will normally follow
+the same direction as the QRS complex that preceded it (positive
+or negative/up or down). When a T wave occurs in the opposite
+direction of the QRS complex, it generally re�ects some sort of
+cardiac pathology.
+If a small wave occurs between the T wave and the P wave, it
+could be a U wave. The biological basis for a U wave is unknown.
+There are many ways to determine a patient’s heart rate using
+ECG. One of the quickest ways is called the sequence method.
+To use the sequence method, �nd an R wave that lines up with
+one of the dark vertical lines on the ECG paper. If the next R
+wave appears on the next dark vertical line, it corresponds to
+heart rate of 300 beats a minute. The dark vertical lines
+correspond to 300, 150, 100, 75, 60, and 50 bpm. For example, if
+there are three large boxes between R waves, the patient’s heart
+rate is 100 bpm. There are more accurate ways to determine
+heart rate from ECG, but in life-saving scenarios, this method
+provides a quick estimate.
+Mastering EKG interpretation is the foundation of accurate
+cardiac care. Sharpen your rhythm recognition skills and
+advance your expertise through our ACLS certi�cation online
+program.
+The Basics of ECG | ACLS Medical Training https://www.aclsmedicaltraining.com/basics-of-ecg
+2 of 4 6/11/2026, 9:50 PM
+Latest ECC & ILCOR Guidelines
+No Skills Test Required
+24/7 Online Access
+Instant Card Access
+2 Year Certi�cation 
+Our website services, content, and products are for
+informational purposes only. ACLS Medical Training does
+not provide medical advice, diagnosis, or treatment. 
+ 
+The Basics of ECG | ACLS Medical Training https://www.aclsmedicaltraining.com/basics-of-ecg
+3 of 4 6/11/2026, 9:50 PM
+Blog
+Reviews
+About Us
+Why Choose Us
+Customer Service
+How Our Courses Work
+BLS Certi�cation
+ACLS Certi�cation
+PALS Certi�cation
+Neonatal Certi�cation
+Provider Manuals
+Continuing Education Credit
+Promotion Codes
+Algorithms
+Certi�cate Veri�cation
+Knowledge Base
+Free Education Center
+Editorial Process
+TERMS PRIVACY SITEMAP
+The Basics of ECG | ACLS Medical Training https://www.aclsmedicaltraining.com/basics-of-ecg
+4 of 4 6/11/2026, 9:50 PM

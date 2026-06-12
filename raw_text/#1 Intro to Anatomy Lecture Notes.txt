@@ -1,0 +1,624 @@
+Anatomy Lecture Notes Section 1: Introduction to Anatomy 
+ 
+What is Human Anatomy? 
+Human anatomy, including histology and gross anatomy, is the study of the structures of the human body.  
+The discipline of human anatomy involves the identification and description of the structures within the 
+human body.  
+ 
+What’s in a Name? Answer: Everything. 
+Due to the fact that most anatomical names come from Latin and Greek, these words have meaning in 
+their original language, and it i s very helpful and interesting to know the ‘root’ meaning of these words,  
+which is called etymology, as it helps in the learning process. Therefore, becoming familiar with the 
+etymology of the anatomical term s is an important component of studying human anatomy.  
+ 
+For example, the word anatomy comes from the Greek language, composed of ana = up or apart, 
+and tome = a cutting.  Therefore, the word anatomy means "cutting up or apart". As will become 
+evident, the dissection aspects of anatomy are especially important as we study human anatomy.  
+ 
+In general, anatomy can be divided into Gross Anatomy and Microscopic Anatomy.  
+ 
+Gross Anatomy  
+In the health care filed, gross anatomy (macroscopic anatomy) refers to the study of structures that can 
+be seen with the naked eye, such as most bones and muscles. Gross anatomy may involve dissection or 
+noninvasive methods in orde r to examine regions; the objective is to gain insight about the larger 
+structures of organs and organ systems and how they are interconnected. 
+ 
+Microscopic Anatomy  
+Microscopic anatomy, also known as histology (histo = tissue; ology = study), is the study  of tissues that 
+are too small to been seen with the naked eye, and therefore require the use of various microscopes. 
+Microscopy commonly involves studying tissues and cells that have been prepared by histological 
+techniques in order to provide visual contrast of the different aspects of the specimen under examination.  
+ 
+Sectioning and staining tissues is how the histological slides we will examine are prepared. Typically, tissue 
+is treated with preserving and other agents which allow for the sectioning of tissue, which is cutting tissue 
+into very thin slices. Histological stains, such as hematoxylin and eosin, (H&E) are commonly added to the 
+specimens in order to create and enhance visual contrast. The various stains generate different colors and 
+intensities, based primarily on the chemistry of the tissue and the dye (lipid, protein, acidic, basic, etc.). 
+This yield tissues they can be more easily distinguished when they are examined under a microscope (light 
+or electron).  
+ 
+General Information 
+As mentioned, in anatomy, there is an emphasis on word roots and meanings. There are also a lot of words 
+to become familiar with, and it becomes crucial to keep up with the enormous vocabulary content in this 
+course. One of the best techniques is associating the root t erm with something that is already familiar. 
+For example, the prefix hypo means below or under and the term chondro is associated with cartilage 
+(and a part of ribs are made of cartilage). Thus, the term hypochondral refers to an anatomical region of 
+the body under the ribs. Please note: A hypochondriac (someone who frequently believes they are ill) will 
+often wave their hands around their tummy and declare they are not feeling well!  
+ 2 
+It will become very useful to relate as many anatomical structures to their root words, in order to better 
+understand their meaning. It is also valuable to be able to relate the concepts we study to everyday life as 
+much as possible.  
+ 
+Another important aspect is to know that grammatical constructs also relate to anatomical terms resulting 
+in similar looking words with different endings which indicate use as nouns and adjectives, etc. (e.g., 
+cranium is the noun and cranial is the adjecti ve). In addition, anatomy uses many diminutives – a way of 
+modifying a word to convey smallness, or another quality of the object, or to convey a sense of 
+endearment. A great example of this is organ and organelle. Organelle is almost of way of saying “tee ny 
+tiny little organ”. Note: Generally the longer the word, the smaller the structure!  
+ 
+In anatomy there are often several terms for one structure. In the past it was common to name structures 
+after the “discoverer's” name, these are called “eponyms”. Currently, the more preferred terminology is 
+that which is descriptive rather than named with an eponym. The descriptive name often describes 
+function, location, shape, etc. However, it is important that students become familiar with both the 
+eponym and the descriptive anatomical terminology. 
+ 
+Here is an example. Compare Eustacian tube with auditory tube; an Italian Eustacia was cited as the first 
+to described this anatomical structure, but this name gives no indication as to its role or location. However, 
+it is likely that the word auditory suggests a role for this structure in sound or a location that has something 
+to do with the ear.  
+ 
+There are many examples, here are a few more that we will encounter: 
+ 
+ Achilles tendon = calcaneal tendon of the heel. 
+ Bowman's capsule = glomerular capsule of the nephron in the kidney. 
+ Cowper's gland = bulbourethral gland of the male reproductive system. 
+ Fallopian tubes = uterine tubes of the female reproductive system. 
+ Graafian follicle = mature follicle of the female gamete or the egg cell. 
+ Kupffer cell = macrophages of the liver. 
+ Islets of Langerhans = pancreatic islets of the pancreas where hormones are made. 
+ Meissner's corpuscle = tactile corpuscle for touch sensation in the dermis of skin.  
+ Nissl bodies = ribosomes within nerve cell bodies. 
+ Sphincter of Oddi = hepatopancreatic sphincter to control the flow of bile and pancreatic juices. 
+ Pacinian corpuscle = lamellated corpuscle for pressure sensation deep in dermis of skin.  
+ Node of Ranvier = myelin-sheath gaps along the length of myelinated axons of neurons. 
+ Canal of Schlemm = scleral venous sinus which drains aqueous humor of the eyeball.  
+ 
+*Note that an eponym is using a proper name and thus the name must be capitalized. 
+ 
+ 3 
+Introduction to the Study of Anatomy 
+Structure (anatomy) and function (physiology) are closely correlated in the human body. It is important to 
+understand the connection between form and function when studying anatomy as the form (shape) of a 
+structure is strongly indicative of what it does (function). This approach to the study of anatomy is called 
+“functional anatomy”, and it is the approach that we use in this course. 
+ 
+I. Levels of Organization – this describes examining things from the fundamental building block s and 
+ascending to more complex and larger structures. Below are the levels of organization for human anatomy 
+listed from simplest to most complex.  
+ 
+A. Atoms 
+B. Molecules 
+C. Organelles 
+D. Cells 
+E. Tissues 
+F. Organs 
+G. Organ systems 
+H. Organism 
+ 
+ 
+Any basic anatomy textbook will show this type of order of structures (listed above) and give specific 
+examples of each level. This is also an example of how the course is constructed, we go from micro -
+structures to macro-structures.   
+ 
+II. Basic Functions of Living Organisms  
+A. Responsiveness 
+B. Growth 
+C. Differentiation 
+D. Metabolism 
+E. Movement 
+F. Reproduction  
+G. Excretion 
+
+ 4 
+Each system we study in human anatomy (see below) will contain various components of these functions. 
+We commence the study of human anatomy with histology - the study of tissues. This micro -anatomy 
+requires the use of microscopes and th e identification of not only the four primary tissue, but also the 
+elements (such as cells, fibers and other material) that these tissues are composed of.   
+ 
+III. The Systems Studied in Anatomy 
+A. Tissues – four primary tissues: Epithelium; Connective; Muscular; Nervous. 
+B. Integumentary - skin, hair, nails and glands. 
+C. Skeletal - bones, cartilage, articulations. 
+D. Muscular - skeletal, cardiac and smooth muscles. 
+E. Nervous - nerves, glial cells, central nervous system (NS), peripheral NS and autonomic NS. 
+Special Senses - eyes, ears, touch, olfaction, equilibrium and taste. 
+F. Endocrine – primary and secondary endocrine glands. 
+G. Cardiovascular - heart, arteries, capillaries, veins. Lymphatic - lymph ducts, nodes, organs, 
+tissues. 
+H. Respiratory - lungs, bronchial tree. 
+I. Digestive - mouth, esophagus, stomach, small intestine, colon, liver, pancreas. 
+J. Urinary - kidney, ureters, urinary bladder, urethra. 
+K. Reproductive:  
+1) Ovary, uterine tube, uterus, vagina. 
+2) Testes, epididymis, ductus deferens, glands, urethra, penis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 5 
+IV. Regions of the Body 
+A. The four quadrants division 
+ 1. Right upper quadrant 
+ 2. Left upper quadrant  
+3. Right lower quadrant 
+4. Left lower quadrant  
+ 
+ 
+ 
+See your lab manual and /or any basic anatomy 
+textbook for a diagram of these regions. 
+ 
+ 
+V. Planes of the Body  
+A. Frontal (coronal) plane: Divides body into front 
+and back portions. 
+ 
+B. Transverse (cross, horizontal) plane: Divides 
+body into superior and inferior portions.  
+ 
+C. Sagittal (mid and parasagittal) plane: Divides 
+body into left and right portions. Mid -sagittal 
+means equal left and right portions whereas 
+para-sagittal means unequal left and right 
+portions. 
+ 
+Three dimensional (3D) visualization of structures in 
+books can be diff icult, especially reconstruction of 
+serial slices of organs or of tissues. Try to think of 
+common items first, like a pencil or an apple, and what 
+would be exposed in a series of slices of the objects or 
+as viewed from different sides or perspectives. The 
+figure to the right is also helpful as it shows the 3 
+planes of the body as well as the directional terms 
+commonly used in anatomy. 
+ 
+B. The descriptive abdominopelvic regions 
+ 1. Right and Left hypochondriac 
+ 2. Right and left lumbar 
+ 3. Right and left iliac (inguinal) 
+ 4. Epigastric 
+ 5. Umbilical 
+ 6. Hypogastric 
+
+ 6 
+Table 1. Regions of the body described with anatomical landmarks and commonly terminology. 
+Anatomical Landmarks Common Term 
+Cranium (Cranial) Skull 
+Oris (Oral) Mouth 
+Cervicis (Cervical) Neck 
+Acromion (Acromial) Shoulder 
+Thoracis (Thoracic) Chest 
+Abdomen (Abdominal) Belly 
+Gluteus (Gluteal) Buttock 
+Inguen (Inguinal) Groin 
+Pubis Pubic 
+Axilla (Axillary) Armpit 
+Brachium (Brachial) Arm 
+Antecubitis (Antecubital) Front of elbow 
+Olecranon Elbow 
+Antebrachium Forearm 
+Carpus (Carpal) Wrist 
+Manus (Manual) Hand 
+Pollex Thumb 
+Digits (Phalanges) Fingers 
+Femur (Femoral) Thigh 
+Patella (Patellar) Knee 
+Popliteus (Popliteal) Back of knee 
+Crus (Crural) Leg (front) 
+Sura (Sural) Calf (back) 
+Tarsus (Tarsal) Ankle 
+Calcaneus (Calcaneal) Heel 
+Dorsum Top of foot 
+Planta (Plantar) Sole of foot 
+ 
+Knowledge of the anatomical landmarks for the “layperson’s” terminology is very useful to know. 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 9 
+The Body Cavities  
+Within the human body are cavities  which help to contain, compartmentalize and protect the various 
+organs and structures in the body and also allow all structures to be interconnected. 
+ 
+For these body cavities there is correct a natomical terminology . In the h uman there are several body 
+cavities, with additional more discrete cavities within the larger ones. In general they are 2 large separate 
+body cavities in our bodies:  
+ 
+1) The Dorsal body cavity (in the back) , shown in green in the image below. As you can see, the dorsal 
+cavity has two cavities within it, the cranial cavity which is enclosed within the bones of the skull and 
+houses the brain, and the spinal cavity enclosed by the bones of the vertebral column, which contains the 
+spinal cord. 
+ 
+2) The Ventral body cavity (in the front), shown in yellow in the image below. The larger ventral cavity 
+has two man divisions which are separated by the diaphragm (the primary muscle of respiration) , which 
+are also body cavities within the ventral body cavit y. It contains the thoracic cavity, which is enclosed by 
+the ribcage and contain s the lungs (within the pleural cavities), mediastinum (area in between the two 
+lungs) and the heart (within the pericardial cavity). The  abdominopelvic cavity  contains many large 
+internal organs, including the liver, stomach, intestines , with the bladder and reproductive structures 
+situated within in the bony pelvic basin. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 10 
+The image below at right provides a more detailed visual of how the thoracic, abdominal, and pelvic 
+cavities are arranged in the ventral cavity.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brain protected by bones of the skull. Also covered by 
+meningeal layers and bathed in cerebrospinal fluid (CSF). 
+Spinal cord protected by the vertebrae of the spinal column. 
+Further protected by the spinal meninges and CSF. 
+Bladder, rectum, lower colon and 
+reproductive organs. 
+List Contents in Body Cavity 
+Stomach, small intestine, liver, gallbladder, 
+pancreas, spleen, and the colon. 
+Contains the heart, bathed in pericardial 
+fluid. 
+The area in between the two lungs, 
+contains the heart, thymus gland, trachea, 
+esophagus, aorta, great veins and nerves. 
+Two cavities, containing the R and L 
+lungs, surrounded by pleural fluid.  
+ 11 
+VI. Anatomical Position 
+The anatomical position is a very useful way to create a standard frame of reference for the body. This 
+position is used when describing a person’s anatomy in order to maintain a standard frame of reference 
+for body orientation  
+ 
+The anatomical position or standard anatomical position, is standing upright, feet together, facing 
+forward, arms at your sides with palms facing forward (anterior). This is called the supine position. When 
+the palms are facing posterior, it is  called the prone position. Again, the anatomical position is used as a 
+universal frame of reference for body orientation in the health care field. 
+ 
+Here is an example of where it is very useful. I f a person were to ask: Is the stomach inferior to the 
+diaphragm? The answer will not depend on whether someone is standing on their head or bent over, etc. 
+We can safely assume the description is with reference to the anatomical position. Most often, if the term 
+anatomical position is used, it is referring to a person standing, unless otherwise indicated. When a subject 
+is laying down, then supine refers to laying on their back and prone is laying on their stomach. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VII. Anatomical Directions – terms used to describe specific directions in the body.  
+A. Superior / Inferior 
+B. Posterior / Anterior 
+C. Dorsal / Ventral 
+D. Deep / Superficial 
+E. Distal / Proximal 
+F. Lateral / Medial 
+ 
+ 
+
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIII. Body Cavities 
+1. Dorsal cavity - contains brain and spinal cord (cranial bones and vertebrae). 
+ 
+2. Ventral cavity is divided by the diaphragm (skeletal muscle for breathing) into 
+a. Thoracic cavity which contains: 
+i. Mediastinum: Located between the lungs, it contains the esophagus, aorta, 
+nerves, thymus and trachea, and the pericardial cavity, containing the heart.  
+ 
+ii. Pleura cavity containing the lungs (1 left and 1 right lung). 
+ 
+b. Abdominopelvic cavity. This cavity is separated by an imaginary plane into  
+i. Abdominal cavity containing most of the viscera. 
+ 
+ii. Pelvic cavity containing the urinary bladder, female reproductive and rectum. 
+ 
+ 
+All of the ventral internal body cavities mentioned above (pericardium, pleura and peritoneum) are lined 
+by a serous membrane. These body cavities are not directly exposed to the outside wo rld (unlike the 
+respiratory tract, for example) and need a moist and slippery surface in order to reduce the friction of two 
+surfaces moving across each other. 
+ 
+ 
+ 
+
+ 13 
+Review of the Cell  
+Can you guess, approximately, how many cells are in the human body? 
+ 
+The human body is made up of … trillions of cells, from 50 to 60 trillion to be more exact. These cells can 
+vary dramatically in size, shape and function. If we stop to think about how amazing this is, we will be very 
+impressed with ourselves. These trillions of cells act as a well-coordinated community that functions as a 
+whole organism. When we are in balanced good health these cells do not compete with or destroy each 
+other – on the contrary, they cooperate and focus on specific tasks that their environment calls for. If cells 
+are competing and destroying each other, using resources but providing no function or even obstructing 
+the function of other cells, this is indicative of a disease state! The focus of this course is the functional 
+anatomy of a healthy, balanced body.    
+ 
+Of the trillions of cells, there are only about 200 different types of cells in the human body. For example 
+hepatocytes are found in the liver, neurons help make up nervous tissue, osteocytes are found in bone 
+tissue, adipocytes are found in fat (adipose) tissue, and so on. Within the human body, most cells have 
+some basic properties in common and we will quickly review them.   
+ 
+I. Cell Structure 
+A. Cell Membrane Functions as almost everything! 
+1. It creates the cell boundary, separating the inside of the cell from the outside. 
+2. Allows for adhesion and attachments to other membranes. 
+3. Has receptors for hormones, neurotransmitters and other signals for communication.  
+4. Has identifying markers to indicate function to other cells. 
+ 
+B. Special Features on cells may include: 
+1. Cilia - these are hair-like structures that arise from the exposed (apical) end of some cells.  
+Their role is for the movement of substances across surface of the cell, e.g., mucous. 
+2. Microvilli - extensions of cell membrane, to increase the surface area of cell for exchange, 
+e.g. to increase the rate of absorption. 
+3. Flagellum - a whip-like structure for the movement of the entire cell, e.g., spermatozoa. 
+ 
+II. Cell Membrane Permeability – what substances can move across the plasma membrane of a cell? 
+ The Degree of Permeability Varies: 
+1. Impermeable - this type of membrane restricts the passage of all molecules. 
+2. Selectively permeable - this cell membrane lets certain molecules through but not others. 
+3. Highly permeable - lets almost anything through the cell membrane. 
+ 
+III. Cell Attachments and Junctions 
+A. Tight junction - near free surface (apical end) of epithelium, water tight seal. 
+B. Desmosome - lightly tacks cells together, usually deep to the surface (basal end).  
+C. Hemidesmosomes - tethers cell to basemen membrane where cells are anchored.  
+D. Gap junction - physical opening between two cells, permits direct communication of ions, etc.  
+ 
+ 
+ 
+ 
+ 14 
+IV. Cell Names 
+The names of cells often indicate their location and function. In general the term -cyte means a mature 
+cell that resides in and maintains that tissue (e.g., a chondrocyte, in cartilage). Hepatocytes are found in 
+the liver, neurons are for nervous system c ommunication and adipocytes are found in adipose tissue, 
+where they store triglycerides (fat). Various cells types can also have special endings, for example the 
+suffix (ending) blast indicates a cell that makes or builds something (e.g., a fibroblast make s fibers). The 
+suffix -clast means those which breakdown structures (e.g., an osteoclast breaks down bone matrix).  
+ 
+Cells are the unit of life and it is assumed you are already familiar with the basic concepts of cell structure. 
+The first lab session is d esigned to reacquaint you with major cell structures and introduce you to 
+microscopy. Knowing how to use the microscope to examine cells, tissues and organs is a powerful skill 
+and that is another important goal of the first lab sessions of anatomy that are called Microscopy. 
+ 
+Summary of Objectives for Introduction to Anatomy 
+1. To understand the language of anatomy and its specialized terminology. 
+2. To introduce levels of organization, body regions, the anatomical and directional terminology 
+that will be used during the course. 
+3. To introduce the body cavities and lining membranes that will be seen during the course. 
+4. To define cytology and introduce the basic concepts involved in cellular organization. 
+5. To become familiar with the names of some cells and the tissues they form. 
+ 
+Diagrammatic overview of a very basic histological technique practiced in our first anatomy lab. Wet 
+mount preparation of epithelial cheek cells. 
+  
+                                             
+ 
+Ready for viewing under 
+the microscope! 
