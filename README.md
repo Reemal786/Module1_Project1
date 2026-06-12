@@ -24,15 +24,13 @@
 
 | # | Source | Description                                  | URL or location |
 |---|--------|----------------------------------------------|-----------------|
-| 1 | | | |    Vital Signs: blood pressure, purlse rate, etc  
-https://www.hopkinsmedicine.org/health/conditions-and-diseases/vital-signs-body-temperature-pulse-rate-respiration-rate-blood-pressure 
+| 1 | | | |    Vital Signs: blood pressure, purlse rate, etc  https://www.hopkinsmedicine.org/health/conditions-and-diseases/vital-signs-body-temperature-pulse-rate-respiration-rate-blood-pressure 
 
 | 2 | | | |   Common Medical Terms                          https://www.rcog.org.uk/for-the-public/a-z-of-medical-terms/ 
 
 | 3 | | | |   Anatomy and Physiology                        https://www.cliffsnotes.com/study-guides/anatomy-and-physiology 
 
-| 4 | | | |   Common Medical Abbreviations                  
-https://www.asha.org/practice-portal/professional-issues/documentation-in-health-care/common-medical-abbreviations/?srsltid=AfmBOor_F8eVZTVh6MNF_-8R9-aPP78Ms8feFN0Zy96HDKYZEZDVmXIa 
+| 4 | | | |   Common Medical Abbreviations                  https://www.asha.org/practice-portal/professional-issues/documentation-in-health-care/common-medical-abbreviations/?srsltid=AfmBOor_F8eVZTVh6MNF_-8R9-aPP78Ms8feFN0Zy96HDKYZEZDVmXIa 
 
 | 5 | | | |  OSHA Healthcare Standards                      https://www.cdc.gov/niosh/learning/safetyculturehc/module-5/5.html 
 
